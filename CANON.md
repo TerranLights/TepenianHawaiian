@@ -1,0 +1,21 @@
+# Canon established so far
+
+**Authority:** the developer. **Source of this file:** the developer's draft `to-be-integrated/Hawaiian_language.txt` in the Inner Tepenia GDD repo, plus answers given 2026-10-13. The GDD's own record is `Worldspace/Modern_Hawaiian_Language.md` there.
+
+| # | Canon | Date |
+|---|---|---|
+| C-1 | Hawaii is small but extremely important to the robots. Doris Morikawa (involved in the International Archive, a vast library of human information that later becomes a major data source for building Arcanet in Antarctica) and Hana Jinn (works first at U.R.U.K., then at A.R.U.Ta.G.) live there. | 2026-10-13 |
+| C-2 | The Great War is in 2083. The Republic of Hawaii forms shortly afterward. The Falkland Treaty (June 21, 2564) and the founding of the Tepenian Federation come about 500 years after the Great War; the Republic is then 500+ years old. | 2026-10-13 |
+| C-3 | Real Hawaii in 2026 is ethnically and culturally diverse. Dominant languages: English, Asian languages (primarily Japanese and Tagalog; also Chinese and Korean), and Spanish among a Hispanic minority. | 2026-10-13 |
+| C-4 | Hawaii is isolated (it is no longer part of the USA, which collapses shortly after the Great War). Over ~500 years an **entirely new language** takes shape. It begins as a **pidgin of English, Japanese and Tagalog.** | 2026-10-13 |
+| C-5 | **Korean** does not have a strong enough presence to be a significant influence on the pidgin. **Mandarin Chinese** does not contribute to how the language works (it is written in glyphs and uses tones that no other major language in Hawaii accommodates). Japanese also uses kana, a regular alphabet, albeit a phonetically limited one. *(Open: whether Chinese, Korean or others reach the language as borrowed vocabulary; see `OPEN_QUESTIONS.md`.)* | 2026-10-13 |
+| C-6 | Full analysis is needed of **English, Japanese and Tagalog**, plus supplementary analysis of **Korean and Spanish, especially Mexican Spanish.** | 2026-10-13 |
+| C-7 | **Layering.** As English takes vocabulary and grammatical structures from different languages at different levels or areas (in 2026 English: French for a higher register, Greek for mental contemplation and psychological understanding, German for common core usage), Modern Hawaiian does the same: English is associated with certain areas and levels, Japanese with others, and so on. | 2026-10-13 |
+| C-8 | **Era names.** Each era calls its own language "Modern Hawaiian." Federation era: Modern Hawaiian (today's real Hawaiian = Old or Medieval Hawaiian). Mars era (after the Tepenians colonize outer space): Modern Hawaiian is the then-current language, the Falkland-era language is **Middle Hawaiian**, and today's real Hawaiian is **Ancient Hawaiian.** | 2026-10-13 |
+| C-9 | In the Federation era Modern Hawaiian is the **international robot language** and then the **national language of Tepenia**, known to robots and humans alike. | 2026-10-13 |
+| C-10 | **Dome Fuji's proper name** will be a Modern Hawaiian vocabulary term, in the way "Angkor Wat" is the title of the temple in Cambodia and also an ordinary Cambodian vocabulary term. Colloquial name: "The Temple." Until this language is synthesized, the GDD calls it "The Temple." | 2026-10-13 |
+| C-11 | Language synthesis is separate from slang synthesis: this repo builds the language; `slang-synthesis` builds slang from languages' real patterns and tendencies. | 2026-10-13 |
+| C-12 | Intended outputs: eBooks (a grammar reference, a full dictionary, a couple of history books). | 2026-10-13 |
+
+## Timeline anchors from the GDD (do not contradict)
+Great War 2083 · First Interwar 2083–2564 · Falkland Treaty June 21, 2564 · Second Interwar 2564–2812 (Act 1: 2564 to early 2600s; Act 2 from the late 2600s/early 2700s) · Amundsen Tower completes ~2688 · Long Night War 2812 · present ≈ 2822–2827. The Mars era is later than the Federation era; its dates are not fixed here.
