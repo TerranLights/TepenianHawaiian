@@ -1,0 +1,224 @@
+{
+  "00_START_HERE.md": {
+    "mtime": 1791914308.4257193,
+    "seen": 1791914979.240744,
+    "ast_hash": "2bf8a779ebdce3497f36cf493f96bd3e",
+    "semantic_hash": "2bf8a779ebdce3497f36cf493f96bd3e"
+  },
+  "CANON.md": {
+    "mtime": 1791915675.7909732,
+    "seen": 1791916205.6152153,
+    "ast_hash": "22bf81ff2286d1cba939f29e36f3b403",
+    "semantic_hash": "22bf81ff2286d1cba939f29e36f3b403"
+  },
+  "CLAUDE.md": {
+    "mtime": 1791914558.002021,
+    "seen": 1791914979.2407484,
+    "ast_hash": "4ba6cab7a6bc390a8c096aac5c786ee9",
+    "semantic_hash": "4ba6cab7a6bc390a8c096aac5c786ee9"
+  },
+  "DECISIONS.md": {
+    "mtime": 1791915675.7914672,
+    "seen": 1791916205.61522,
+    "ast_hash": "43ae620739549ac31b83d853277e7f2b",
+    "semantic_hash": "43ae620739549ac31b83d853277e7f2b"
+  },
+  "INTERFACES.md": {
+    "mtime": 1791914308.426095,
+    "seen": 1791914979.2407496,
+    "ast_hash": "a60db8ef54cb4333d88f8984e256c452",
+    "semantic_hash": "a60db8ef54cb4333d88f8984e256c452"
+  },
+  "OPEN_QUESTIONS.md": {
+    "mtime": 1791915675.791572,
+    "seen": 1791916205.6152213,
+    "ast_hash": "779f243473cdba8895eb8793701f9d49",
+    "semantic_hash": "779f243473cdba8895eb8793701f9d49"
+  },
+  "README.md": {
+    "mtime": 1791914584.9579628,
+    "seen": 1791914979.240751,
+    "ast_hash": "b501e2946b320ce80309c0080a7e3984",
+    "semantic_hash": "b501e2946b320ce80309c0080a7e3984"
+  },
+  "ROADMAP.md": {
+    "mtime": 1791914308.4260416,
+    "seen": 1791914979.2407515,
+    "ast_hash": "a74fa88cec7ec303cedf1680cca72858",
+    "semantic_hash": "a74fa88cec7ec303cedf1680cca72858"
+  },
+  "SOURCE_ACQUISITION_TODO.md": {
+    "mtime": 1791914308.4261494,
+    "seen": 1791914979.2407522,
+    "ast_hash": "abef9ef3c5096d9c31356933dc126d8f",
+    "semantic_hash": "abef9ef3c5096d9c31356933dc126d8f"
+  },
+  "contributing_languages/README.md": {
+    "mtime": 1791915675.792107,
+    "seen": 1791916205.6152222,
+    "ast_hash": "59a82f2b40e4d90fa241df466082b72e",
+    "semantic_hash": "59a82f2b40e4d90fa241df466082b72e"
+  },
+  "contributing_languages/_TEMPLATE/00_Overview.md": {
+    "mtime": 1791914308.4265475,
+    "seen": 1791914979.2407532,
+    "ast_hash": "268fb524107e80d75028a0e136414e53",
+    "semantic_hash": "268fb524107e80d75028a0e136414e53"
+  },
+  "ebooks/README.md": {
+    "mtime": 1791914308.4292119,
+    "seen": 1791914979.240754,
+    "ast_hash": "2d19fe16a62045bef21f1f87576e8709",
+    "semantic_hash": "2d19fe16a62045bef21f1f87576e8709"
+  },
+  "ebooks/dictionary/README.md": {
+    "mtime": 1791914308.4293718,
+    "seen": 1791914979.2407544,
+    "ast_hash": "b604ac0a62f7f58f7993a78e3deb1371",
+    "semantic_hash": "b604ac0a62f7f58f7993a78e3deb1371"
+  },
+  "ebooks/grammar_reference/README.md": {
+    "mtime": 1791914308.4292932,
+    "seen": 1791914979.2407548,
+    "ast_hash": "a3e9b8a005ccb0a97b12238b820eb231",
+    "semantic_hash": "a3e9b8a005ccb0a97b12238b820eb231"
+  },
+  "ebooks/history_books/README.md": {
+    "mtime": 1791914308.429456,
+    "seen": 1791914979.2407556,
+    "ast_hash": "bf4acd180e7fb2e1df4c899dfd772b2a",
+    "semantic_hash": "bf4acd180e7fb2e1df4c899dfd772b2a"
+  },
+  "history/00_Timeline.md": {
+    "mtime": 1791914308.4290783,
+    "seen": 1791914979.240756,
+    "ast_hash": "5cbea3bf4825e9d2663c74912211c6f4",
+    "semantic_hash": "5cbea3bf4825e9d2663c74912211c6f4"
+  },
+  "history/README.md": {
+    "mtime": 1791914308.4290109,
+    "seen": 1791914979.2407565,
+    "ast_hash": "6dc03229064071c166f70086d003ec2d",
+    "semantic_hash": "6dc03229064071c166f70086d003ec2d"
+  },
+  "history/_TEMPLATE_period.md": {
+    "mtime": 1791914308.4291337,
+    "seen": 1791914979.240757,
+    "ast_hash": "9fac5dcd1bc9e7a21e159e9670cb8aaa",
+    "semantic_hash": "9fac5dcd1bc9e7a21e159e9670cb8aaa"
+  },
+  "language/README.md": {
+    "mtime": 1791914308.4287853,
+    "seen": 1791914979.2407575,
+    "ast_hash": "a5344bf9704192bad92a07494031fd4b",
+    "semantic_hash": "a5344bf9704192bad92a07494031fd4b"
+  },
+  "language/dialects/README.md": {
+    "mtime": 1791915675.7918441,
+    "seen": 1791916205.6152234,
+    "ast_hash": "d25f15978fdfc8f396bce08c2397cc30",
+    "semantic_hash": "d25f15978fdfc8f396bce08c2397cc30"
+  },
+  "language/lexicon/README.md": {
+    "mtime": 1791914308.4275548,
+    "seen": 1791914979.240759,
+    "ast_hash": "e542898cf56b3b0aba4762919508cb2e",
+    "semantic_hash": "e542898cf56b3b0aba4762919508cb2e"
+  },
+  "language/lexicon/_TEMPLATE_entry.md": {
+    "mtime": 1791914308.4288518,
+    "seen": 1791914979.2407594,
+    "ast_hash": "18cc17f11b3cca3328b0b0b86057f041",
+    "semantic_hash": "18cc17f11b3cca3328b0b0b86057f041"
+  },
+  "language/morphology/README.md": {
+    "mtime": 1791914308.4273553,
+    "seen": 1791914979.24076,
+    "ast_hash": "55e42f8fcd9cbab0f70d11c63ba8d6cb",
+    "semantic_hash": "55e42f8fcd9cbab0f70d11c63ba8d6cb"
+  },
+  "language/orthography/README.md": {
+    "mtime": 1791915675.791927,
+    "seen": 1791916205.6152246,
+    "ast_hash": "e2949bee8b0c6c411387b1c3f28db0c9",
+    "semantic_hash": "e2949bee8b0c6c411387b1c3f28db0c9"
+  },
+  "language/phonology/README.md": {
+    "mtime": 1791914308.4271572,
+    "seen": 1791914979.2407613,
+    "ast_hash": "d294cd5c2acea2e0e48f0b3b3d38f5f3",
+    "semantic_hash": "d294cd5c2acea2e0e48f0b3b3d38f5f3"
+  },
+  "language/registers/README.md": {
+    "mtime": 1791915675.7920108,
+    "seen": 1791916205.6152263,
+    "ast_hash": "61e63a9026433c0e381660e005de0d07",
+    "semantic_hash": "61e63a9026433c0e381660e005de0d07"
+  },
+  "language/semantics_and_pragmatics/README.md": {
+    "mtime": 1791914308.4276402,
+    "seen": 1791914979.2407625,
+    "ast_hash": "914ad9547018c9adbd2c37f8a8e146ce",
+    "semantic_hash": "914ad9547018c9adbd2c37f8a8e146ce"
+  },
+  "language/sound_change/README.md": {
+    "mtime": 1791914308.4287212,
+    "seen": 1791914979.240763,
+    "ast_hash": "e7966588acc81eeacbd1d8922b6682ae",
+    "semantic_hash": "e7966588acc81eeacbd1d8922b6682ae"
+  },
+  "language/syntax/README.md": {
+    "mtime": 1791914308.42745,
+    "seen": 1791914979.2407634,
+    "ast_hash": "452ba669493417a09063d31eb49b73bb",
+    "semantic_hash": "452ba669493417a09063d31eb49b73bb"
+  },
+  "language/syntax/_TEMPLATE_chapter.md": {
+    "mtime": 1791914308.428922,
+    "seen": 1791914979.240764,
+    "ast_hash": "6d6b8ef68eb9eb5bd87f6151c07c8481",
+    "semantic_hash": "6d6b8ef68eb9eb5bd87f6151c07c8481"
+  },
+  "methodology-observations/README.md": {
+    "mtime": 1791914308.4295464,
+    "seen": 1791914979.2407644,
+    "ast_hash": "7f2c60be292961c26a1542e7eaf0b91a",
+    "semantic_hash": "7f2c60be292961c26a1542e7eaf0b91a"
+  },
+  "real_world_analogs/README.md": {
+    "mtime": 1791914308.4266765,
+    "seen": 1791914979.2407649,
+    "ast_hash": "a650fdeec5b8acef92c55d249dd02d30",
+    "semantic_hash": "a650fdeec5b8acef92c55d249dd02d30"
+  },
+  "source_reference/README.md": {
+    "mtime": 1791914308.426255,
+    "seen": 1791914979.2407658,
+    "ast_hash": "1cc0385333fd783e19143f07f2d7441f",
+    "semantic_hash": "1cc0385333fd783e19143f07f2d7441f"
+  },
+  "synthesis_method/01_Pipeline.md": {
+    "mtime": 1791915675.7916658,
+    "seen": 1791916205.6152275,
+    "ast_hash": "31e8810e3ecd416cdd700ef0060fcc71",
+    "semantic_hash": "31e8810e3ecd416cdd700ef0060fcc71"
+  },
+  "synthesis_method/02_Layering_Table.md": {
+    "mtime": 1791915675.7917576,
+    "seen": 1791916205.615228,
+    "ast_hash": "bcf771868421f4d3e52c3e284b9f9dd5",
+    "semantic_hash": "bcf771868421f4d3e52c3e284b9f9dd5"
+  },
+  "synthesis_method/03_Provenance_and_Status_Rules.md": {
+    "mtime": 1791914308.42703,
+    "seen": 1791914979.2407675,
+    "ast_hash": "73cdb4743a69f3f7f11672bb1011976c",
+    "semantic_hash": "73cdb4743a69f3f7f11672bb1011976c"
+  },
+  "synthesis_method/README.md": {
+    "mtime": 1791914308.4268234,
+    "seen": 1791914979.240768,
+    "ast_hash": "7d415b61b0675880de69e918bb86840d",
+    "semantic_hash": "7d415b61b0675880de69e918bb86840d"
+  }
+}
