@@ -13,7 +13,8 @@ A dedicated repo for researching, synthesizing and establishing **Modern Hawaiia
 7. **American English** for all prose in this repo.
 8. **Nothing flows back into the GDD without an explicit decision.** The GDD note is updated only when the developer says so.
 9. **Operating hours:** none for now (developer, 2026-10-13). Work here may run at any hour, including autonomous and unattended batches, because the Inner Tepenia ULM work does not resume until November (when the Max20x plan is paid for). The sibling repo `slang-synthesis` limits autonomous work to 3:00 pm to 4:59 am; that does not apply here. **Revisit when the ULM resumes.**
-10. **Fictional-language terms in the GDD:** the GDD calls Dome Fuji "The Temple" until this language has produced its proper name (a Modern Hawaiian vocabulary term). Do not coin that name early.
+10. **Name items two ways.** Every canon item, decision, open question and research-queue topic carries both a short code (`C-`, `D-`, `Q-`, `RQ-`) for easy reference and a plain descriptive name so the developer can tell what it is for. Cite both when referring to one (`D-8`).
+11. **Fictional-language terms in the GDD:** the GDD calls Dome Fuji "The Temple" until this language has produced its proper name (a Modern Hawaiian vocabulary term). Do not coin that name early.
 
 ## Era vocabulary (canon, 2026-10-13)
 Each era calls its own language "Modern Hawaiian." From the Mars era, the Falkland-era language is "Middle Hawaiian," and today's real Hawaiian is "Ancient Hawaiian." In the Falkland/Federation era today's Hawaiian is "Old" or "Medieval" Hawaiian. Always say which vantage point a name is from.

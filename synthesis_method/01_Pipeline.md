@@ -8,7 +8,7 @@ The language is derived through its history, not assembled at once.
 2. **Contact pidgin.** Who speaks what to whom; which words and structures a first-generation contact variety would keep (simple word order, few inflections, content words from the dominant sources). Record the setting: Hawaii after the Great War.
 3. **Stabilization.** The pidgin settles into a shared variety; some words and structures win.
 4. **Nativization.** Children learn it as a first language; grammar expands (tense, aspect and plural marking, subordination, a fuller pronoun system).
-5. **Regularization and change over centuries.** Sound change, grammaticalization, semantic shift, borrowing and the layered vocabulary system (canon item: Layering by register and domain). Each change is logged in `language/sound_change/` with its approximate period.
+5. **Regularization and change over centuries.** Sound change, grammaticalization, semantic shift, borrowing and the layered vocabulary system (C-7 Layering by register and domain). Each change is logged in `language/sound_change/` with its approximate period.
 6. **The Falkland-era standard (Modern Hawaiian, c. 2564).** The first fixed target the books describe.
 7. **Federation-era use.** Spread as the international robot language and then the national language; registers and per-region variation develop (`language/registers/`, `language/dialects/`).
 8. **Mars-era stage (later, optional).** The language as it later changes; the Falkland-era form becomes "Middle Hawaiian."
