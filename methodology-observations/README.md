@@ -4,4 +4,4 @@ A running record of what the method itself teaches: schema gaps, tooling gotchas
 
 | File | Topic | Date |
 |---|---|---|
-| *(none yet)* | | |
+| `selection_factors.md` | What decides which source language wins a feature (usability, weight, cultural influence) | 2026-10-18 |

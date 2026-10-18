@@ -23,6 +23,7 @@
 | `OPEN_QUESTIONS.md` | Questions awaiting the developer or research. |
 | `INTERFACES.md` | How this repo connects to the GDD, `slang-synthesis`, and the eBooks. |
 | `SOURCE_ACQUISITION_TODO.md` | Reference material still needed. |
+| `RESEARCH_QUEUE.md` | Topics to research one at a time, with where to look and where each result goes. |
 | `source_reference/` | Local, untracked library of grammars, dictionaries and studies. |
 | `contributing_languages/` | One folder per source language: what it brings to Modern Hawaiian and at which level. |
 | `real_world_analogs/` | Real pidgins, creoles and contact languages used as models (Hawaiʻi Creole English first). |
