@@ -23,6 +23,7 @@
 | `OPEN_QUESTIONS.md` | Questions awaiting the developer or research. |
 | `INTERFACES.md` | How this repo connects to the GDD, `slang-synthesis`, and the eBooks. |
 | `SOURCE_ACQUISITION_TODO.md` | Reference material still needed. |
+| `ASSUMPTIONS.md` | Inputs chosen by the developer because the future cannot be derived (for example, Hawaii's demographics). |
 | `RESEARCH_QUEUE.md` | Topics to research one at a time, with where to look and where each result goes. |
 | `source_reference/` | Local, untracked library of grammars, dictionaries and studies. |
 | `contributing_languages/` | One folder per source language: what it brings to Modern Hawaiian and at which level. |
