@@ -8,6 +8,7 @@ The future cannot be predicted in enough detail to derive a language from it, so
 |---|---|---|
 | Real Hawaiian's share | Real-world Hawaiian ends up a very small part of Middle Hawaiian: a core of roughly 100 to 450 actual Hawaiian words at the foundation level, with the rest of the language built on top of it. | proposed |
 | Source-language weights | Rough shares of influence among the sources, as approximations only: English 30%, Japanese 30%, Tagalog 15%, Ilocano 15%, Korean 4.5%, Mexican Spanish 4.5%, other 1%; separately, a foundational core of 100 to 450 real Hawaiian words. Not laws to be obeyed. | proposed |
+| Long-term divergence | Over the roughly thousand years after the Falkland-era standard, the language probably diverges into multiple accents and dialects, and possibly several languages, as Latin diverged into Spanish, French, Italian, Portuguese and Romanian; the Mars era, and perhaps a Jupiter era, are part of that picture. | proposed |
 | Demographics of Hawaii | The population mix of Hawaii (who speaks what, in what proportions) at the time the pidgin forms is assumed, since it cannot be known. | proposed, details not yet chosen |
 
 ## Real Hawaiian's share
@@ -44,3 +45,15 @@ The future cannot be predicted in enough detail to derive a language from it, so
   3. *What "other" means.* It cannot include Portuguese (D-10 Portuguese excluded as a source) or Chinese (D-11 Chinese excluded as a source). Candidates, if any, are still to be named (for example Okinawan, Samoan, Chuukese, Marshallese).
   4. *Role labels.* The roster's role words (core, supplementary) have not been reassigned to match these weights. Ilocano is marked core in the roster as of 2026-10-21 pending confirmation.
 - **Affects:** `contributing_languages/README.md` (roles), the layering table, and every weighted choice in the lexicon and grammar.
+
+## Long-term divergence
+
+- **Stated by:** the developer, 2026-10-26, while answering questions about the public-domain translations. Framing: the Falkland-era standard (about 2564) is a base from which later forms are extrapolated; after about a thousand more years the language "will probably diverge into multiple accents and dialects and possibly even multiple languages, the way that Latin diverged into Spanish, French, Italian, Portuguese, and Romanian."
+- **Why needed:** it sets how far this repo's modeling reaches (see Q-10 Mars-era scope) and what "Modern Hawaiian" and "Middle Hawaiian" refer to in the later eras.
+- **Not canon:** the repo's canon covers the Federation era and the Mars era (C-8 Era names). A Jupiter era does not appear in the canon. The Inner Tepenia GDD holds the world's timeline; nothing flows back to it without an explicit decision.
+- **Open points for the developer:**
+  1. *Era naming if there is a Jupiter era.* The canon's naming rule is by vantage point (Modern, Middle, Ancient). Does it need extending, and if so how?
+  2. *Does a daughter language count?* If a later form is a separate language, does this repo give it its own name, or call every stage a form of Modern Hawaiian from its own vantage?
+  3. *Scope.* How much of the later divergence does this repo model, versus only the Falkland-era standard and the Federation era?
+- **Research lead (unverified):** historical accounts of how Latin diverged into the Romance languages, as an analog for long-term divergence; to be checked against real sources and recorded under `real_world_analogs/` if used.
+- **Affects:** `synthesis_method/01_Pipeline.md` (stages 6 to 8), the dialects folder, and the long-term reach of `history/`.

@@ -2,6 +2,8 @@
 
 One folder per source language, created when analysis of that language starts (copy `_TEMPLATE/`). This file is the roster.
 
+**Build order (D-19 Build order: English and Japanese first).** English and Japanese are the primary pair and are worked out first, together; then the layers of Tagalog, Ilocano, Spanish (Mexican) and Korean go on top, in an order still to be decided. This mirrors how English's two primary contributing languages are French and Old Saxon/German.
+
 **Role vocabulary.** *Core:* a primary source of the pidgin. *Supplementary:* a secondary source. *Substrate:* the language of the earlier population underlying the contact. *Adstrate:* a neighboring influence. *Open:* not yet decided. *Excluded:* ruled out, with the reason.
 
 | Language | Role | Basis | Folder | Status |

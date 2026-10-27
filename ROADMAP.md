@@ -9,7 +9,7 @@ Repo structure, standing rules, canon record. **Done:** structure created. **Nex
 Gather reference material (`SOURCE_ACQUISITION_TODO.md`). Triage and extraction are done in `slang-synthesis`, not here (D-9 Extraction in slang-synthesis, absorption here); this phase records what exists, what is missing, and what is extracted. Existing English, Japanese, Korean, Spanish and other material already sits in `slang-synthesis/source_reference/languages/`, with extractions in its `datasets/`; reference it by path, do not duplicate.
 
 ## Phase 2 — Contributing-language analysis *(not started; the sibling repo has completed Phase 1 extraction for Japanese, Korean, Spanish and Tagalog as of 2026-10-20, and this phase absorbs it)*
-For each language in `contributing_languages/`: phonology, morphology, syntax, lexicon strata, what contact would keep and what it would drop. English, Japanese and Tagalog in full; Korean and Spanish (Mexican) supplementary; Ilocano and others as research decides. Output per language into its own folder.
+For each language in `contributing_languages/`: phonology, morphology, syntax, lexicon strata, what contact would keep and what it would drop. Order (D-19 Build order: English and Japanese first): **step 1,** how English and Japanese, the two primary sources, interact with each other; **step 2,** the layers of Tagalog, Ilocano, Spanish (Mexican) and Korean on top of that (order among them not yet decided). Output per language into its own folder.
 
 ## Phase 3 — Contact-language modeling *(not started)*
 Study real pidgins and creoles (`real_world_analogs/`): how pidgins form, stabilize and nativize; typical outcomes for grammar, sound system and lexicon. Hawaiʻi Creole English first.
@@ -34,3 +34,6 @@ Compile the grammar reference, dictionary and history books (`ebooks/`).
 
 ## Phase 10 — Handoff to slang-synthesis *(not started)*
 Modern Hawaiian becomes an input language for in-universe slang work.
+
+## Phase 11 — Public-domain translations *(not started; only after the language is functional)*
+Translate public-domain books into the language (`public_domain_translations/`: the developer's book list in `README.md`, the plan in `PLAN.md`). Doubles as a stress test: every gap found goes in a gap log and is filled only by a recorded derivation. Begins once the core language build (Phase 6) is done. Target: the Falkland-era standard (D-17 Translation method and target); first book: Aesop's *Fables*.
