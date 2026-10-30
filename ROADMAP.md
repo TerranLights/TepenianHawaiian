@@ -8,7 +8,7 @@ Repo structure, standing rules, canon record. **Done:** structure created. **Nex
 ## Phase 1 — Source acquisition and triage *(not started)*
 Gather reference material (`SOURCE_ACQUISITION_TODO.md`). Triage and extraction are done in `slang-synthesis`, not here (D-9 Extraction in slang-synthesis, absorption here); this phase records what exists, what is missing, and what is extracted. Existing English, Japanese, Korean, Spanish and other material already sits in `slang-synthesis/source_reference/languages/`, with extractions in its `datasets/`; reference it by path, do not duplicate.
 
-## Phase 2 — Contributing-language analysis *(not started; the sibling repo has completed Phase 1 extraction for Japanese, Korean, Spanish and Tagalog as of 2026-10-20, and this phase absorbs it)*
+## Phase 2 — Contributing-language analysis *(not started; as of 2026-10-30 the sibling repo has completed Phase 1 extraction for English, Japanese, Korean, Spanish and Tagalog; Ilocano and Cantonese are triaged only; real Hawaiian has no sources yet; this phase absorbs the extractions)*
 For each language in `contributing_languages/`: phonology, morphology, syntax, lexicon strata, what contact would keep and what it would drop. Order (D-19 Build order: English and Japanese first): **step 1,** how English and Japanese, the two primary sources, interact with each other; **step 2,** the layers of Tagalog, Ilocano, Spanish (Mexican) and Korean on top of that (order among them not yet decided). Output per language into its own folder.
 
 ## Phase 3 — Contact-language modeling *(not started)*
