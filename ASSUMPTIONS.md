@@ -14,7 +14,8 @@ The future cannot be predicted in enough detail to derive a language from it, so
 ## Real Hawaiian's share
 
 - **Stated by:** the developer, 2026-10-18 ("maybe around 150 to around 450 actual Hawaiian words that are down at the core foundation level of Middle Hawaiian. Then on top of that, the rest of the language actually gets built").
-- **Revision history:** 2026-10-18, roughly 150 to 450 words. 2026-10-21, roughly 100 to 450 words (developer, stated while giving the source-language weights below).
+- **Revision history:** 2026-10-18, roughly 150 to 450 words. 2026-10-21, roughly 100 to 450 words (developer, stated while giving the source-language weights below). 2026-10-30, scope clarified to vocabulary only (see "Scope clarified").
+- **Scope clarified (developer, 2026-10-30):** only a very core vocabulary comes from real Hawaiian. The majority of the grammar is a mixture of English and Japanese (the two primary sources), with some from Korean, Tagalog, Ilocano and Spanish. Real Hawaiian is therefore not a source of grammar; its grammar (for example the *a*/*o* possessive classes) is background only.
 - **Why needed:** the repo has asked whether real Hawaiian contributes anything (see Q-4 Real Hawaiian's contribution). This sets the scale of the answer: a small core, not a major source language.
 - **Still to decide:** which words, and by what criteria; what "foundation level" means in terms of the layering table (see the open question at the end of this section); how the words change over the centuries before the Falkland-era standard.
 - **Vantage point:** from the Falkland era and later, today's real Hawaiian is "Ancient Hawaiian" (Mars era) or "Old" or "Medieval" Hawaiian (Federation era); see C-8 Era names.

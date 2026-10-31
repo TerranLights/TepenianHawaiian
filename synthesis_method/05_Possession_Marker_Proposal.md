@@ -34,6 +34,15 @@ Citations are to the `slang-synthesis` extractions, not to the original books; q
 - Pronouns take の like any other noun, with no separate possessive pronoun forms (`established/035b_barrons_japanese_grammar.md`; `established/038d_japanese_beyond_words.md`).
 - **A precedent for the *n* form:** in colloquial speech の contracts to *n* after *watashi* and *boku* when a noun follows (*boku-n chi*, "my house"), per *Nihongo Notes* vol. 7, pp. 86-87 (`established/053_nihongo_notes_07_08.md`). The extractor marked this `plausible_unverified`, so it needs a second source before anything rests on it.
 
+## Real Hawaiian's own possession system (background only, added 2026-10-30)
+The developer has clarified (2026-10-30) that only a very core vocabulary comes from real Hawaiian and that the grammar is mostly English and Japanese, with some Korean, Tagalog, Ilocano and Spanish (`ASSUMPTIONS.md`, "Real Hawaiian's share"). So this is background, not a source for the marker; it is recorded because it is the real language's own way of treating possession.
+Source: Elbert and Pukui, *Hawaiian Grammar*, as extracted in `slang-synthesis/datasets/Hawaiian/established/003_hawaiian_grammar_ch7-9.md`, section 9.6 and Table 14 (printed pp. 116-118 and 139-140). Paraphrase only.
+- Hawaiian has two possessive classes, marked by *a* and *o* (the prepositions *a* and *o*, and the pronoun sets built on them: *kaʻu/koʻu* "my", *kāu/kou* "your", *kāna/kona* "his or her").
+- The authors reject any single clean rule. They walk through overlapping tendencies (active and passive, alienable and inalienable, inherited and acquired, subordinate and dominant), and their strongest general account is control or initiation: *a* when the possessor caused or controls the relationship, *o* when the possessor had no part in originating it.
+- The classes follow relationship type, not animacy. Examples: kin of one's own generation and earlier generations take *o*; spouse, children and later generations take *a*; body parts always take *o*; most objects take *a*, with a small marked set (house, canoe, land) taking *o*.
+- Two neutral forms, *kuʻu* and *kō*, are unmarked for class and can be used with any possessed noun.
+- Possessives are not idiomatically used with body parts (*ʻeha ke poʻo*, "the head hurts").
+
 ## Observations (analysis, not findings)
 1. **Where each language shows up.** The attachment to the possessor and the possessor-first order are shared by English *'s* and Japanese の. The *n* sound comes from Japanese. This is consistent with D-18 Source layers as ways of thinking, but the derivation is not yet recorded.
 2. **The proposal makes no animate/inanimate split.** *Tarpan* and *sunon* use the same marker as *Johnon*. English's *'s* versus *of* split (developer's observation) would be dropped, which matches Japanese, where の does not split. Whether this is intended connects to Q-13 Grammatical classing of robots, humans and objects and RQ-A6.
@@ -49,3 +58,4 @@ Recorded as Q-14 Possession marker: scope and form.
 
 ## Revision history
 - 2026-10-30: proposal recorded; first check against the English and Japanese extractions.
+- 2026-10-30 (later): added real Hawaiian's *a*/*o* possessive classes from the newly extracted grammar as background only, after the developer clarified that real Hawaiian supplies only core vocabulary, not grammar.
